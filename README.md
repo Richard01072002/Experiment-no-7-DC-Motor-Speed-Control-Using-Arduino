@@ -57,8 +57,10 @@ void loop()
 }
 ```
 ### OUTPUT
+#### OUTPUT OF SIMULATION :
 ![image](https://github.com/Richard01072002/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/141472248/f8481785-b0ef-4ac6-a157-f44ed12bbf86)
 
+#### Schematic Diagram:
 ![image](https://github.com/Richard01072002/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/141472248/4a7ccb73-26ab-41f4-8b7d-e3bd569b6322)
 
 ### GRAPH AND TABULATION 
@@ -71,4 +73,5 @@ void loop()
 
 
 ### RESULTS AND DISCUSSION 
+``` Arduino uno interfacing with DC motor is learned and controled clock wise and anti clock wise by using PWM signal.```
 
